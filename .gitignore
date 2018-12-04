@@ -1,6 +1,7 @@
 # Data files
 data/*
 .ipynb_checkpoints/*
+*.pkl
 
 # Prerequisites
 *.d
